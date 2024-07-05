@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <img src="https://jusmarktech.com/public/a/images/pages/web_development.gif" width="100%">
 
 <h1 align="center">Hi 👋, I'm Lakshay <i> Bhardwaj</i></h1>
-<h3 align="center">A Aspiring full stack developer and ML/AI enthusiast from India</h3>
+<h3 align="center">An aspiring full stack developer and ML/AI enthusiast from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=virus35&label=Profile%20views&color=0e75b6&style=flat" alt="lakshay-bh" /> </p>-->
