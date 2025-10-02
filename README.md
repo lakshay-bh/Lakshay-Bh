@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 🌱 Having Expertise in writing generic, clean and optimized code(NCLC). fimiliar with FrontEnd and backend development and multiple databases.
 
-- 📫 How to reach me **bhardwajlakshay.lb@gmail.com**
+- 📫 How to reach me **lakshaybh02@gmail.com**
 
 <!--
 <h3 align="left">Connect with me:</h3>
